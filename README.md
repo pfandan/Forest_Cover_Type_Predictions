@@ -48,7 +48,12 @@ Joel Pangilinan
 * Code for visualizations is joel_visualize.ipynb at joel branch
 
 Poonam Fandan
-- List all the work you did here
+* Edited README file
+* Studied the dataset at https://archive.ics.uci.edu/ml/datasets/Covertype
+* Created two different Machine learning models using RandomForestClassifier and KNeighborsClassifier and compared the scores- Forest_cover_type_pred0.ipynb
+* Created Postgresql database, created the SQL table “coverage_type”. Worked on loading the  covertypes data that was available in csv (covtype.csv) into “coverage_type”table.  The scripts to create the table and data load can be found in pfandan create_table_Cover_type.sql, Load_CSV_to_Cover_type.sql
+
+
 
 Ra-Cee Lucas
 - List all the work you did here
